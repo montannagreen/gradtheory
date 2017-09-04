@@ -28,3 +28,11 @@ Maintenance is easier in case of cloud computing applications as they need not t
 Divided into two sections: front end and back end.
 Front end is what the client (user) sees whereas the back end is the cloud of the system. 
 Front end has the clinets computer and the application required to access the cloud and the back has the cloud computing services like various computers, servers and data storage. 
+
+### Advantages
+The maintenance of the infrastructure, be it hardware or software is simplified, thus, less headaches for the IT team. Also applications that are quite storage extensive are more easier to use in the cloud environment compared to the same when used by the organization by its own. Also at the user level, what you mostly need is a simple web browser with internet connectivity.
+
+### Disadvantages
+The biggest concerns about cloud computing are security and privacy.
+One way to solve this issue is the use of proper authentication techniques. Another solution is to provide with an authorization - so that each user can access only the data and applications relevant to his or her job.
+Reliability is an issue. Servers in the cloud can have the same problems as the organization's resident servers. Downtimes can occur with cloud servers too.
