@@ -82,3 +82,32 @@ What distinguishes the work presented in this paper from others is the integrati
 
 The ARUDesigner framework allows designers to manipulate objects in a proposed virtual urban area and assess the environmental impact of alternative design solutions through agent-based simulations.
 
+Computing unit: a cluster of networked CPUs is expected to make the system overall performance viable for multi-users’ real-time interactions. Changes to the virtual urban design made by any individual designer would be constantly relayed to the central server. The central server would then send these changes to all the other designers for scene updating and synchronisation in a real-time manner.
+
+The list of functions changes according to the context in which the menu is used. For instance, switching between AR and VR modes can be realised by the context menu. In the AR mode, designers select and move virtual objects using their data gloves. Touching a virtual building with an out-stretched finger will select it and it can then be ‘grabbed’ in a similar manner to grabbing a physical object in a real environment.
+
+The ARUDesigner system is devised to reduce the possibility of misinterpretations among team members by providing more detailed visual information on design objects. This system also aims to encourage group collaboration and communication in order to improve the overall efficiency and productivity of design teams.
+
+This system could allow designers to assess virtual urban designs in a real, natural, and familiar workspace.
+
+
+# Combining AR and BIM
+#### Fabian Danker, Oliver Jones
+
+Coates (2010) reported that there are current limitations of BIM, including a lack of integrating with contextual information, real world capture and feedback.
+Wang et al (2012) identifies that a merging of both AR and BIM technologies will address shortcomings of current onsite BIM construction which separate physical information from virtual information.
+The applications curretnly considered the most valuable to industry and practitoners is the improvement of communication between architect, contractor and sub-contractor and the ability to view composite visualisations of BIM on site located within the actual context allowing greater testing and refining of design prototypes.
+
+Currently one of the advantages of utilising BIM is its capacity to enable the different disciplines involved with a project to communicate using the same model, thereby reducing fragmentation and identifying and addressing any problems which may arise prior to construction; advantages that ultimately improve the cost, time and quality of the finished product. These advantages are characteristically synergistic with those offered when adopting AR technologies.
+
+Wang et al (2013) have also investigated the potential of AR and BIM. Their study investigates BIM, AR tracking and AR visualisation using past literature to make logical assumptions of the types of tasks within the construction industry that could benefit from AR. Their study focused heavily on the process of information searching, and potential time saved through the adoption of AR.
+
+According to Rankohi (2013) AEC and FM have a highdemand for information needed to enable evaluation,communication, collaboration which is utilised through information technology. The adoption of AR has clear efficiency benefits with regards to accessing information in a more timely and useful way. This is supported by Dong and Kamat (2013) who state that AR will improve visualisation, information retrieval and interaction for AEC and FM within construction.
+
+The expert panel also reported that the manner in which BIM is currently used in industry creates a disconnection between the virtual model and real context. The use of AR combined with BIM would allow virtual data to be superimposed onto the current context on site.
+
+Advances in onsite construction mean that contextualising virtual data in this manner would have many benefits toward a project with advances in onsite construction. As identified by Wang et al (2012) the current disconnection between BIM and its context must be improved. Participants recognise the disconnect between the virtual data and the context, as well as the potential for visualising data from the construction sequence, and potential improvements in collaboration between different disciplines on a project.
+
+identified an increasingly problematic generation gap within the industry between digital immigrants and digital natives.This generation gap and differing attitude is problematic as the expert panel members recount numerous issues of the younger digital native being restricted from implementing new technologies and new technology centric working practices despite the potential benefits because those in charge are somewhat technology averse digital immigrants. A recurring implication to the adoption and integration of new technologies in the construction industry is the generational divide in attitudes towards those new technologies. With the digital immigrants often acting as a barrier to adoption and integration.
+
+The expert panel viewed these technologies as being accessible through cloud based systems, which both store and process and synthesise all building data from concept, design, development, construction, maintenance, refurbishment and demolition.
