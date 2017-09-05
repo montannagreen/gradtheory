@@ -65,3 +65,20 @@ Platform as a Service (PaaS). is a development platform suppirting the full 'sof
 Infrastructure as a service (IaaS). -Cloud consumers directly use IT infrasturtures (processing, storage, networks, and other fundamental computing resources) provided in the IaaS cloud. Virtualisation is extensively used in IaaS cloud in order to integrate/decompose physical resources in an as-hoc manner to meet growing or shrinking resource demand from sloud consumers.
 
 Data as a Service (Daas). The delivery of virtualized storage on demand becomes a seperate Cloud service - data storafe service. DaaS allows consumers to pay for what they are actualling sig rather than the site license for the entire database. 
+
+
+# An experimental study on collaborative effectiveness of augmented reality petentials in urban design
+#### Xiangyu Wang, Rui Chen
+
+The traditional design process employs a sequence of paper-based activities: site visits and drawing, measuring with printout, sketching or design ideas, and deign finalisation in computer-aided design (CAD) systems. This process has proved to be an effectice design approach in siutations where there is a signle designer. 
+
+For collaborative design activites, however, effective communication is a challenge, considering that paper-based media such as hand drawings are difficult to understand for certain stakeholders (e.g. clients) other than designers.
+
+Effective collaboration is difficult to achieve without an approproate visualisation platform.
+
+As an emerging cutting-edge visualisation technology, Augmented Reality, the addition of virtual entities into the real-world view, is envisaged to be a promosing visualisation platform to support design assessment and collaboration within design terms. 
+
+What distinguishes the work presented in this paper from others is the integration of augmentation concepts (augmented reality, intelligent agents, and tangible interface) into one single collaborative tool for urban designers – Augmented Realitybased Urban Designer (ARUDesigner).
+
+The ARUDesigner framework allows designers to manipulate objects in a proposed virtual urban area and assess the environmental impact of alternative design solutions through agent-based simulations.
+
