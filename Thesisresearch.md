@@ -189,3 +189,34 @@ Cloud-BIM interoperability research and its standardization effort is still in i
 
 
 In addition, compatible and efficient BIM data representation in the Cloud is another critical aspect in Cloud-BIM interoperability.
+
+
+# A conceptual Framework for integrating building information modeling with augmented reality
+#### Xiangyu Wang, Peter E.D. Love, Mi Jeong Kim, Chan-Sik Park, Chun-Pong Sing, Lei Hou
+
+The building information model created is a digital representation of the facility's physical and functional characters. It provides a shared knowledge resource for information about the facility for a client or user to use and maintain throughout the project's life cycle
+
+Despite the availability of high-quality graphic systems, designers (e.g., architects) predominately create digitally enhanced photographs to demonstrate the placement of a building with respect to a vantage point, or scaled physical mock-ups of building components.While this can provide a realistic insight about the proposed design and their implications in construction, it is an expensive and time-consuming process to create static structure and surface characteristics.
+
+
+Wang and Dunston [28] developed a hierarchical taxonomy construction field operations that comprised the following categories (see Table 1): (1) application domain, (2) application-specific operation, (3) operation specific activity, (4) composite task, and (5) primitive tasks, to determine where construction information technology tools and methods can be applied to ameliorate task performance. 
+
+
+Activities associated with composite tasks include measure, connect, navigate, organize, obtain, select, align, connect, record, and report. To acquire an object, for example, a user must move their arm and hand into position before grasping it. Primitive Tasks refer to elemental motion and include reaching, grasping, moving, and eye travel. Wang and Dunston's work [28] suggested that the primitive and composite tasks could be readily applied within an AR environment [28].
+
+
+There are three mental aspects that need to be addressed when assessing the feasibility of using AR for construction related work processes [28]:
+1. Information searching and accessing, which relates to how information is obtained
+2. Attention allocation, which relates to the distraction from other tasks
+3. Memory, which relates to sensory, short-term and long-term memory function
+
+
+Spatial collision analysis (e.g., between trades) is mainly conducted in the design stage with commercial 3D modelling systems, such as Dassault Systemes CATIA® (Computer Aided Three-dimensional Interactive Application) and Autodesk® Navisworks®. However, collisions may still arise during the actual construction process due to the change orders or errors. The challenge therefore is to determine on-site real-time dynamic collision detection due to variations of construction sequence, schedule, components and methods and then provide support for a project schema demonstration. using AR, a site manager can address the potential for conflicts on-site by retrieving and visualizing all the properties and details concerning the building elements from BIM (e.g., Revit Mechanical, Electrical and Plumbing (MEP)).
+
+AR can be used to set out where the support steels or structures are to be installed from the floor above. This can potentially improve speed, safety and accuracy as well as reduce the cost of supports. For example, with AR visualization of the ‘to-be-built ductwork’, its exact location can be identified in the real spatial context, as what is visualized via AR is what needs to be built.
+
+AR visualization of information contained within BIM can provide those on-site personnel with an improved understanding of construction sequencing, which will reduce the incidence of quality failures.
+
+
+Design changes, errors and omissions, which often result in rework, are the primary factors contributing to schedule overruns [2]. Most changes from the initial design are often made during the construction and therefore will need to be recognized in the BIM. Unfortunately, at present, there is no process in place for updating the designed BIM model to incorporate the changes made during construction [39]. With this mind, it is suggested in this paper that AR can be used to map the as-built and as-planned data in a single digital environment with each component allocated with a status: ordered, procured, delivered, checked, installed, completed, commissioned, and fixed. Being able to visualize the difference between ‘as-planned and as-built’ progress enables ‘current and future’ progress to be monitored and therefore facilitates appropriate decision-making.
+
