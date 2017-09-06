@@ -220,3 +220,25 @@ AR visualization of information contained within BIM can provide those on-site p
 
 Design changes, errors and omissions, which often result in rework, are the primary factors contributing to schedule overruns [2]. Most changes from the initial design are often made during the construction and therefore will need to be recognized in the BIM. Unfortunately, at present, there is no process in place for updating the designed BIM model to incorporate the changes made during construction [39]. With this mind, it is suggested in this paper that AR can be used to map the as-built and as-planned data in a single digital environment with each component allocated with a status: ordered, procured, delivered, checked, installed, completed, commissioned, and fixed. Being able to visualize the difference between ‘as-planned and as-built’ progress enables ‘current and future’ progress to be monitored and therefore facilitates appropriate decision-making.
 
+
+# A hierarchical Taxonomy of AEC operations for mixed rality applications 
+#### Phillip S.Dunston, Xiangyu Wang
+
+
+While machines generally excel at physically-intensive tasks that require speed, strength, repetitive motions, and operation in hostile environments, humans are generally more cost-effective at mentally-intensive tasks that require judgment, sensing, and adaptability (Everett and Slocum 1994). Thus one vital role for automation is to augment rather than replace human capabilities. Mixed Reality (MR) technology can seamlessly delivers digitally based information to an individual within the operational context of their real world environment, thus making it a suitable solution for problems of degraded perception and cognition occurring in mentally-intensive tasks of appropriating information for decision-making.
+
+
+Virtually all construction activities require performance of some mental tasks (information seeking, assessment, and decision-making), which may also be embedded into a larger physically-intensive task.
+
+
+MR systems may be regarded as a type of machine interface to a digital environment or to digital information, which means that the theory in human-machine interfaces applies to the research of human-MR system interfaces. 
+
+The real consideration here is that introducing an MR system involves presenting a user with a new information medium and tool that, if not properly designed, can be more of a burden than a help. Therefore, the actual impact on how humans obtain and function with information should be understood and addressed. The design of the MR system should exploit perception and cognition abilities without hampering the physical response action for performing the real world task. Therefore, the perceptual and cognitive issues are explored here with regard to major MR system technological components — media representation, input mechanism, output mechanism, and position/orientation tracker.
+
+
+These four influencing factors are task mental requirements, working environment, physical disposition, and hands occupation, and each of these can influence the feasibility and usability of the four MR technological components (media representation, input mechanism, output mechanism, and tracking technology).
+
+
+Most MR research applications are prototypes that were implemented for special applications, however, MR applications must be flexibly designed, in order to enable easy adaptation to different tasks. More research needs to be implemented to address flexibility issues of MR systems. To be cost effective, sustainable, and popularized, MR system must be designed to be flexible enough to be transferable from project to project or among different levels of tasks. It is envisioned that the developed AEC task taxonomy can be the starting point for formulating fundamental propositions regarding flexibility, extendibility, and popularity of MR systems.
+
+
