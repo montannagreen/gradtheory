@@ -1,0 +1,7 @@
+# Literature Review
+### Introduction
+
+ According to Wang et al., 2013, a Building Information Model (BIM) is a 'digital representation of the facilitiy's physical and function characters. It provides a shared knowledge resource for information ... throughout the project's life cycle'. This source of information needs to be constantely updated as it is seen and a main collaboration tool for the AEC industry, however, during the construction phase there may be changes to the intial design on-site.  Wang et al., 2013 highlights that this information needs to be relayed to the BIM, however, there is no effective system currently in place.   Wang et al., 2013 communicates that AR could be implemented to visualise the 'as planned and as-built', which essentaially is what this research project aims to achieve. With the integration of AR, Cloud-based modelling and BIM, the projects aim to create an application that produces instantaneous synchronisation from the 'real-life' physical world, to the BIM. 
+ 
+
+ The proposed application aims to remove the manual process for site verification; Dunston and Wang, 2011, state that activities such as measuring, obtaining information, aligining, recording and reporting could be built into an AR application. 
