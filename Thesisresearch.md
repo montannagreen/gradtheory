@@ -148,3 +148,44 @@ Another issue is that there exists a mismatch between the level of details for B
 
 
 First of all, the BIM + AR systems are capable of identifying the interdependence, aswell as the complexity of tasks derived fromdifferent roles that mainly focus on their individual tasks in the current construction practice. Secondly, the BIM + AR systems can make the interdependencies between work tasks more explicit, and also make the existing interdependency and complexity more visible and therefore more manageable onsite. The systems integrating AR with BIM are able to display an immersive view right into the real environments where the participants stay, visualize the as planned data onto the as built environment right in place, and alleviate the mental workload undergone by the participants
+
+
+# Data Transmission Opportunities for collaborative cloud-based building information modeling 
+#### Kereshmeh Afsari, Charles M.Eastman, Dennis R. Shelden
+
+investigate what features of Cloud interoperability can assist a network-based BIM data transmission for a collaborative work flow in the Architecture, Construction, and Engineering (AEC) industry. This study indicates that Cloud-BIM interoperability needs to deploy major components such as APIs, data transfer protocols, data formats, and standardization to redefine BIM data flow in the Cloud and to reshape the collaboration process.
+
+
+Cloud-BIM is considered to be the second generation of BIM development and studies suggest that it will produce a major change across the industry although the technology is still relatively new. Cloud-BIM has caused a new direction in BIM implementation and development to support BIM data generation and consumption among members of the project. By applying Cloud Computing in BIM services, Building Information Modeling can achieve a higher performance with a relatively low cost. Cloud-BIM technology is believed to lead to higher levels of information interaction and provide an effective cross-disciplinary collaboration.
+
+
+the main objective of this paper is to investigate what approaches and techniques of Web technologies exist that can assist with improving BIM data transmission to address a network-based data exchange for a collaborative workflow. Hence, this research underlines recent developments and opportunities to address fundamental challenges of BIM data exchange.
+
+
+Previous work (Afsari et al., 2016) identified current Cloud-BIM interoperability approaches in three categories of data flow architecture. First, manual file transfer that is currently a common way of exchanging BIM data across applications. Project data can be exported and shared in the form of vendor specific formats or neutral format using IFC standard (Zhang et al., 2014). Second, BIM server technologies in which server-based BIM solutions known as model collaboration systems (Shafiq et al., 2013) have provided a central BIM service with a single-sourced data server accessible for project partners (Zhang et al., 2014; Beetz et al., 2011). These model server technologies utilize information directly from the models and are intended to improve multidisciplinary collaboration. Third, Data Interchange Hub such as Flux project (Flux, 2016) that can automate data flow between certain applications. This type of solution currently has a very limited implementation and supports very few design applications to be connected via the hub. Also, in this approach the inter-connection of applications relies on the hub solution and its capabilities although supported software packages can exchange data directly.
+
+
+Information sharing is the starting point of collaboration and it requires applications to be able to exchange data regardless of vendors and data formats. To achieve this, in the AEC industry, building data is described in IFC specification to support a neutral data format and to facilitate cross-platform BIM interoperability
+
+
+There are several categories of Cloud services such as infrastructure, platform, application, etc. Based on the services that the Cloud solution provides, there are three major types of Cloud computing models as IaaS (Infrastructure as a Service), Paas (Platform as a Service), SaaS (Software as a Service). a client includes computer software and hardware for application delivery, a Cloud application delivers SaaS, platform services or PaaS provide a computing platform using the cloud infrastructure provided by IaaS, and a server contains computer software and hardware for the delivery of Cloud services
+
+
+In Cloud computing the term “interoperability” might sometimes refer to “portability” which is the ability to move a system from one cloud platform to another (Lewis, 2013; Rimal et al. 2009). Interoperability which is discussed in this research, is considered as the ability of data exchange and integration. Here, interoperability deals with what is known as “enabling products/software components to work with or integrate with each other seamlessly, in order to achieve a desired result” (Antonopoulos & Gillam, 2010). The issue is each Cloud provider incorporate Cloud computing with a self-contained set of conventions, data formats, and application programming interfaces (APIs) and in order to allow Cloud services interoperate identification of major Cloud interoperability components is critical
+
+
+Common TCP/IP protocols are HTTP (Hyper Text Transfer Protocol) as a protocol designed to allow the transfer of Hypertext Markup Language (HTML) documents. World Wide Web traffic mostly uses the HTTP protocol because HTTP uses the most bandwidth across the Internet (IBM, 2006). As illustrated in Figure 3, HTTP takes care of the communication between a web server and a web browser. It first establishes a secure connection between a server and a browser. Then, a client that is running an application on the web browser can send requests to the connected server and upon request, the server sends data that reside on a repository or a datastore to the client
+
+
+Two most common text-based approaches of data serialization are eXtensible Markup Language (XML) and JavaScript Object Notation (JSON) and have been used widely in Web applications for data transmission (Wang, 2011; Sumaray, and Makki, 2012). XML and JSON have different features. XML has a prescriptive grammar and stores all data in the closed tag with the data indexed by labels. JSON on the other hand is a lightweight data exchange format uses a text format independent of the language and has higher parsing efficiency than XML
+
+
+current BIM collaboration and data exchange process are mainly based on manual file transfer while data request by the receiver of data (i.e. Application B illustrated in Figure 4) happens outside of an automated process with no direct control on interacting with required data. In addition, data exchange might be based on BIM integration solutions which are addressing model federation in a centralized platform or interconnecting a limited number of design applications on premise through an interchange hub with the help of plug-ins. Server-based and interchange hub solutions are mainly based on limited data formats and allow limited number of applications to interoperate. Therefore, collaboration with other applications that are not supported in the cycle of these systems will again rely on exporting/importing BIM models in the form of files.
+
+
+This research specified a data flow for Cloud-BIM that utilizes true potentials of the Web technologies and can perform as an enabler for a collaborative process allowing Cloud-BIM services communicate through their standardized APIs. This data flow provides a fundamental basis for a common framework for Cloud-BIM interoperability.
+
+Cloud-BIM interoperability research and its standardization effort is still in its infancy, and the body of knowledge in the area has not been well defined yet. Therefore, this study highlights the need for standardization of Cloud-BIM APIs using IFC data model as industry established schema.
+
+
+In addition, compatible and efficient BIM data representation in the Cloud is another critical aspect in Cloud-BIM interoperability.
